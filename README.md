@@ -15,6 +15,6 @@ Descreva, em cinco linhas, o caminho do push até o contêiner rodando.
 O que faltou verificar e como você verificaria.
 
 ## Quem fez o quê
-(parágrafo do João)
+parágrafo do João
 
-A completar pelo aluno B
+Paragrafo do Robert
